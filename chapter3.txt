@@ -1,1 +1,3 @@
 this is my third chapter of my recent book 
+I am learning git command and its applicaiotn to be good at ait so Im alarning it
+I resore from the stage to make sure that I can manuplate the fiel so I did it 
