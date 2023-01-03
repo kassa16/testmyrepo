@@ -1,1 +1,3 @@
 This is my first branch excercise using git command. I jsut push it this file to remote repo. I am excited about it. 
+I am about to use my pull request using GUI.
+The branch start from where I left off on  the main branch.
