@@ -1,2 +1,7 @@
 I use to open this fiel the start command to open this file so I am excited to get this control.
+<<<<<<< HEAD
 this is my first trial commit on my primary branch. 
+=======
+chapter3.txt is edited and polished today. 
+I am also happy for this work.
+>>>>>>> ffb0d061f8bb56bbae183ff8d0a0ef32ec5febea

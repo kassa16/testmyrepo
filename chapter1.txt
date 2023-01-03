@@ -1,3 +1,5 @@
 This is my third trial to dump the content to the txt file in this folder
 
-hahah.. got it!
+hahah.. got it!\
+I made this change on chapter1.txt is now at 8:09 1/2/2023.
+I am thinking of changing it later if there is a new perspctive about it.
